@@ -43,9 +43,11 @@ python your_script_name.py
 ##  Output
 
 - outputs/barplot.png: Bar plot of high-frequency terms
-  ![Bar plot](outputs/barplot)
+
+![Bar plot](outputs/barplot)
+
 - outputs/wordcloud.png: Word cloud of the most common words
-    ![Word cloud](outputs/wordcloud)
+![Word cloud](outputs/wordcloud)
 
 
 
